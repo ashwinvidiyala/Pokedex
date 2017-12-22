@@ -1,15 +1,17 @@
 #container {
-  width: 1270px;
+  width: 970px;
 }
 
 .pokemon {
   display: inline-block;
-  width: 970px;
+  width: 670px;
 }
 
 .pokedex {
   border: 5px solid red;
   display: inline-block;
-  width: 280px;
+  width: 250px;
   vertical-align: top;
+  padding-left: 5px;
+  margin-left: 10px;
 }
