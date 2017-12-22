@@ -1,0 +1,15 @@
+#container {
+  width: 1270px;
+}
+
+.pokemon {
+  display: inline-block;
+  width: 970px;
+}
+
+.pokedex {
+  border: 5px solid red;
+  display: inline-block;
+  width: 280px;
+  vertical-align: top;
+}
