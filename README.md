@@ -2,4 +2,6 @@
 
 Created a Pokedex using AJAX.
 
-Finish assignment: 
+Finish assignment:
+
+![Pokedex](pokedex.png)
